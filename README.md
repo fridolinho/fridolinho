@@ -1,4 +1,4 @@
-[![Fridolinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridolinho&?count_private=true)](https://github.com/fridolinho/github-readme-stats)<br/>
+[![Fridolinho's GitHub stats](https://github-readme-stats.vercel.app/api?username=fridolinho&?count_private=true&show_icons=true))](https://github.com/fridolinho/github-readme-stats)<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fridolinho&theme=tokyonight)<br/>
 [![Github](https://img.shields.io/github/followers/fridolinho?label=Follow&style=social)](https://github.com/fridolnho)
 ![](https://visitor-badge.laobi.icu/badge?page_id=fridolinho.fridolinho)
